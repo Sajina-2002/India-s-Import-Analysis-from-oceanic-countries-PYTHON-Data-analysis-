@@ -1,0 +1,2 @@
+# India-s-Import-Analysis-from-oceanic-countries-PYTHON-Data-analysis-
+The project helps to analyze India's Import patterns from oceanic countries between 2015 and 2025 by examining country-wise, commodity-wise and state-wise import data to identify major trade patterns ,high-value commodities and key trends that can help understand India's trade dependency and opportunities for better decision-making.
